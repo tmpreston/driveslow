@@ -1,3 +1,6 @@
+#Ignore client_secrets.json
+googledrivesample\client_secrets.json
+
 #################
 ## Eclipse
 #################
