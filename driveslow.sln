@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "driveslow", "driveslow\driveslow.csproj", "{080B18EC-5E31-429A-A325-D1FBD78E5717}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "driveslowtesting", "driveslowtesing\driveslowtesting.csproj", "{7138F7DA-59A0-4AC1-A053-71D83A03E064}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drive.Sample", "googledrivesample\Drive.Sample.csproj", "{DCEA467C-253B-49F5-BFA2-506A972D6C18}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +17,14 @@ Global
 		{080B18EC-5E31-429A-A325-D1FBD78E5717}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{080B18EC-5E31-429A-A325-D1FBD78E5717}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{080B18EC-5E31-429A-A325-D1FBD78E5717}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7138F7DA-59A0-4AC1-A053-71D83A03E064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7138F7DA-59A0-4AC1-A053-71D83A03E064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7138F7DA-59A0-4AC1-A053-71D83A03E064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7138F7DA-59A0-4AC1-A053-71D83A03E064}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCEA467C-253B-49F5-BFA2-506A972D6C18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCEA467C-253B-49F5-BFA2-506A972D6C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCEA467C-253B-49F5-BFA2-506A972D6C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCEA467C-253B-49F5-BFA2-506A972D6C18}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
