@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "driveslowtesting", "drivesl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Drive.Sample", "googledrivesample\Drive.Sample.csproj", "{DCEA467C-253B-49F5-BFA2-506A972D6C18}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "driveslow.core", "driveslow.core\driveslow.core.csproj", "{057BE265-F065-485C-AE77-6A77AFC83AEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -25,6 +27,10 @@ Global
 		{DCEA467C-253B-49F5-BFA2-506A972D6C18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCEA467C-253B-49F5-BFA2-506A972D6C18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCEA467C-253B-49F5-BFA2-506A972D6C18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{057BE265-F065-485C-AE77-6A77AFC83AEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{057BE265-F065-485C-AE77-6A77AFC83AEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{057BE265-F065-485C-AE77-6A77AFC83AEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{057BE265-F065-485C-AE77-6A77AFC83AEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
